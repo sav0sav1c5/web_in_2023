@@ -74,7 +74,7 @@ Aplikacija podržava funkcionalnosti za neprijavljene korisnike, čitaoce, autor
 
 ## Struktura Projekta
 
-- `BACK/` - Backend implementacija u Javi koristeći Spring Boot.
+- `WEB/` - Backend implementacija u Javi koristeći Spring Boot.
 - `FRONT/` - Frontend implementacija u HTML, CSS i opciono JavaScript/Vue.js.
 
 ## Pokretanje Projekta
